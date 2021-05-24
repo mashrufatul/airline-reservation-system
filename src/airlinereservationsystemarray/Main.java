@@ -37,6 +37,7 @@ public class Main {
     }
     public static Customer inputUsingConstructor()
     {
+        //test comment
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter First Name: ");
         String firstMame= sc.nextLine();
